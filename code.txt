@@ -7,3 +7,4 @@ code.txt第六行 测试添加dev分支
 code.txt第七行 测试分支冲突22222
 code.txt第七行 测试合并分支冲突`
 code.txt第八行 添加新行 测试不冲突也不能fast forward合并
+code.txt第九行 测试强制禁用fast forward模式
